@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yow Tzu Lim's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Yow Tzu Lim
+Systematic Portfolio Manager, Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="yowtzu.lim@gmail.com">yowtzu.lim@gmail.com</a>
+| <a href="http://yowtzu.github.io">yowtzu.github.io</a>
 </div>
 
 
