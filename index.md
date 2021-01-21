@@ -23,10 +23,7 @@ Built the quantitat
 `2015`
 __Quantitative Analyst, Global Alpha Fund, Incapture Investments, London__
 - Implement a portfolio of systematic, market-neutral, event driven trading strategies on liquid future with Sharpe Ratio: 2.7.
-Bloomberg/Python/kdb$+$/q).
 - Implement a new trading research platform from scratch and revamped various intraday event driven trading strategies using Bloomberg/Python/kdb+/q.
-- Automate various manual processes, including market data update, constant maturity time series construction and alpha event screening.
-- Build various batch processes and ad-hoc risk management tools (e.g., market data update, alpha event screener, VaR stress-testing report) on the internal cloud platform (Python).
 
 `2012-2015`
 __Quantitative Developer, Tibra Capital, London.__
