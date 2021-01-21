@@ -3,7 +3,7 @@ layout: cv
 title: Yow Tzu Lim's CV
 ---
 # Yow Tzu Lim
-Systematic Portfolio Manager, Physicist, Mathematician, Cambridge professor.
+Systematic Portfolio Manager, Machine Learning Enthusiast.
 
 <div id="webaddress">
 <a href="yowtzu.lim@gmail.com">yowtzu.lim@gmail.com</a>
@@ -11,18 +11,31 @@ Systematic Portfolio Manager, Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## Profile
 
-Standing on the shoulders of giants
+A self-motivated quantitative portfolio manager with full-stack development experience.
 
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+
+
+
+
+
+
+
+## Employment
+`2015 - now`
+__Asset Management, London__
+- Research, implement and manage a $\approx 250$M systematic Euro IG credit portfolio using ML techniques (Gradient Boosting/Random Forest/Convex Opt/Python) with annualised Excess Return: 250bps with positive skewness, Information Ratio $\approx 3.5$ since inception 2018.
+- Research and implement asset allocation models for 2 global credit funds (launched in June $16$, $\approx 5$B AUM) (Black-Litterman \& copula opinion pooling/Genetic Algorithms/R).
+- Create RV model for bond screening (Kernel Regression/R/Shiny).
+- Design and build various batch processes and databases to capture bond analytics (Python).
+- Lead the quantitative team and direct research initiatives.
 
 
 ## Education
