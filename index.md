@@ -14,7 +14,7 @@ Systematic Portfolio Manager
 __Head of Credit Quantitative Investment, European Asset Management, London__
 - Launch and manage a systematic Euro IG credit portfolio with excess return: 250bps (IR = 3.5) since inception Dec 2018.
 - Research and implement the asset allocation models for 2 global credit funds since inception 2016.
-- Build the quantitative research team and infrastructure from scratch.
+- Build and lead the team and infrastructure from scratch.
 
 `2015`
 __Quantitative Analyst, Global Alpha Fund, Incapture Investments, London__
@@ -70,7 +70,6 @@ CUDA Programming on NVidia GPU, Oxford University
 
 `2011`
 Distinction at Machine Learning Course by Andrew Ng
-
 
 <!-- ### Footer
 
