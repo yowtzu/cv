@@ -18,8 +18,7 @@ __Head of Credit Quantitative Investment, European Asset Management, London__
 
 `2015`
 __Quantitative Analyst, Global Alpha Fund, Incapture Investments, London__
-- Implement a portfolio of systematic, market-neutral, event driven trading strategies on liquid future with Sharpe Ratio: 2.7.
-- Implement a new trading research platform from scratch and revamped various intraday event driven trading strategies using Bloomberg/Python/kdb+/q.
+- Research and implement a systematic portfolio of event driven trading strategies on liquid futures with Sharpe Ratio: 2.7 in Python and kdb+/q.
 
 `2012 - 2015`
 __Quantitative Developer, Tibra Capital, London.__
