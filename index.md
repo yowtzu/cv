@@ -1,91 +1,78 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yow Tzu Lim's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Yow Tzu Lim
+Systematic Fixed Income Portfolio Manager
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="yowtzu.lim@gmail.com">yowtzu.lim@gmail.com</a>
+| <a href="http://yowtzu.github.io">yowtzu.github.io</a>
 </div>
 
+## Employment
+`2015 - now`
+__Head of Credit Quantitative Investment, Schroders Asset Management, London.__
+- Launch and manage a systematic Euro IG credit portfolio using machine learning techniques with excess return: 250bps (IR = 3.5) since inception Dec 2018.
+- Research and implement the asset allocation models for 2 global credit funds since inception 2016.
+- Build and lead the team and infrastructure from scratch.
 
-## Currently
+`2015`
+__Quantitative Analyst, Global Alpha Fund, Incapture Investments, London.__
+- Research and implement a systematic portfolio of event driven trading strategies on liquid futures with Sharpe Ratio: 2.7 in Python and kdb+/q.
 
-Standing on the shoulders of giants
+`2012 - 2015`
+__Quantitative Developer, Tibra Capital, London.__
+- Implement several equity and index future trading strategies, one of which has become the main revenue generation in kdb+/q.
+- Create, maintain and improve kdb+/q tick streaming analytics and time-series database.
 
-### Specialized in
+`2010 - 2012`
+__Analytics Developer, JP Morgan, London.__
+- Greenfield project: Prototype a NoSQL based distributed market data store in Cassandra/Java/Google Proto.
+- Develop and maintain equity quantitative models in kdb+/q.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`2007 - 2009`
+__Summer Research Co-op, IBM T J Watson Research, NY, USA.__
+- Patent a learning inference framework using Genetic Programming (GP) technique.
+- Combine GP and simulation (similar to Reinforcement Learning) to infer security policies.
 
 ## Education
+`2015`
+__MSc in Statistics, Imperial College.__
+- Thesis: Portfolio Optimisation with Sequential Monte Carlo
+- Awards: Distinction with best student presentation award
+  
+`2007 - 2011`
+__PhD in Computer Science, University of York.__
+- Thesis: Security Policy Inference
+- Expertise: Evolutionary Algorithms, Heuristic Search and Optimisation, Rules Inference
+- Awards: IBM International Full PhD Studentship
+- Teaching Experience: Advanced Programming, Network and Communication
 
-`1654-1660`
-__The King's School, Grantham.__
+`2002 - 2006`
+__MEng (Hons) Computer Science, University of York.__
+- Awards: Malaysia PSD Full Overseas Scholarship, University Bursaries, the best group project
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Professional Activities
+`2018 - Now`
+FCA CF30 approved person
 
-- Sizar
+`2018`
+Investment Management Certification (IMC)
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2016`
+Introduction to Corporate Credit Analysis, Fitch Training
 
-- Fellow
+`2015`
+Provide policy learning consultation to a security service start-up
 
+`2014`
+CUDA Programming on NVidia GPU, Oxford University
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2011`
+Distinction at Machine Learning Course by Andrew Ng
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: JAN 2021 -->
 
 
