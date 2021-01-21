@@ -46,7 +46,7 @@ __PhD in Computer Science, University of York.__
 - Thesis: Security Policy Inference
 - Expertise: Evolutionary Algorithms, Heuristic Search and Optimisation, Rules Inference
 - Awards: IBM International Full PhD Studentship
-- Teaching Experience: Advanced Programming, Network and Communication, Operating Systems
+- Teaching Experience: Advanced Programming, Network and Communication
 
 `2002 - 2006`
 __MEng (Hons) Computer Science, University of York.__
