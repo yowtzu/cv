@@ -3,7 +3,7 @@ layout: cv
 title: Yow Tzu Lim's CV
 ---
 # Yow Tzu Lim
-Systematic Portfolio Manager
+Systematic Fixed Income Portfolio Manager
 <div id="webaddress">
 <a href="yowtzu.lim@gmail.com">yowtzu.lim@gmail.com</a>
 | <a href="http://yowtzu.github.io">yowtzu.github.io</a>
