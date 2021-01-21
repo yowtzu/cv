@@ -11,13 +11,13 @@ Systematic Portfolio Manager
 
 ## Employment
 `2015 - now`
-__Head of Credit Quantitative Investment, European Asset Management, London__
+__Head of Credit Quantitative Investment, European Asset Management, London.__
 - Launch and manage a systematic Euro IG credit portfolio with excess return: 250bps (IR = 3.5) since inception Dec 2018.
 - Research and implement the asset allocation models for 2 global credit funds since inception 2016.
 - Build and lead the team and infrastructure from scratch.
 
 `2015`
-__Quantitative Analyst, Global Alpha Fund, Incapture Investments, London__
+__Quantitative Analyst, Global Alpha Fund, Incapture Investments, London.__
 - Research and implement a systematic portfolio of event driven trading strategies on liquid futures with Sharpe Ratio: 2.7 in Python and kdb+/q.
 
 `2012 - 2015`
