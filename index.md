@@ -21,7 +21,7 @@ __Quantitative Analyst, Global Alpha Fund, Incapture Investments, London__
 - Implement a portfolio of systematic, market-neutral, event driven trading strategies on liquid future with Sharpe Ratio: 2.7.
 - Implement a new trading research platform from scratch and revamped various intraday event driven trading strategies using Bloomberg/Python/kdb+/q.
 
-`2012-2015`
+`2012 - 2015`
 __Quantitative Developer, Tibra Capital, London.__
 - Implement several equity and index future trading strategies, one of which has become the main revenue generation in kdb+/q.
 - Create, maintain and improve kdb+/q tick streaming analytics and time-series database.
@@ -42,7 +42,7 @@ __MSc in Statistics, Imperial College.__
 - Thesis: Portfolio Optimisation with Sequential Monte Carlo
 - Awards: Distinction with best student presentation award
   
-`2007-2011`
+`2007 - 2011`
 __PhD in Computer Science, University of York.__
 - Thesis: Security Policy Inference
 - Expertise: Evolutionary Algorithms, Heuristic Search and Optimisation, Rules Inference
