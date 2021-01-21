@@ -15,7 +15,7 @@ __Head of Credit Quantitative Investment, Schroders Asset Management, London.__
 - Launched and currently manage a systematic Euro IG credit portfolio using machine learning techniques (Gradient Boosting/Convex Opt) since Dec 2018.
 - Portfolio uses sector specfic fundamental factors, equity factors on top of traditional credit factors.
 - Portfolio ex-post annualised excess return: 250bps (IR = 3.5, Hit Rate = 75%).
-- Research and implement the asset allocation models for 2 global credit funds since inception 2016.
+- Research and implement systematic RV trading idea and asset allocation models for 2 global credit funds since inception 2016.
 - Build and lead the team and research infrastructure from scratch.
 
 `2015`
