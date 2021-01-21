@@ -36,7 +36,7 @@ __Quantitative Developer, Tibra Capital, London.__
 
 `2010 - 2012`
 __Analytics Developer, JP Morgan, London.__
-- Greenfield project: Prototype a NoSQL based distributed back-testing market data store with Restful Web Service in Cassandra/Java/Google Proto.
+- Greenfield project: Prototype a NoSQL based distributed market data store in Cassandra/Java/Google Proto.
 - Develop and maintain equity quantitative models in kdb+/q.
 
 `2007, 2007, 2009`
