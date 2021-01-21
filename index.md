@@ -50,7 +50,7 @@ __PhD in Computer Science, University of York.__
 
 `2002 - 2006`
 __MEng (Hons) Computer Science, University of York.__
-- Awards: Malaysia PSD Full Overseas Scholarship, University Bursaries, the best final year group project, The York Award
+- Awards: Malaysia PSD Full Overseas Scholarship, University Bursaries, the best group project
 
 ## Professional Activities
 `2018 - Now`
