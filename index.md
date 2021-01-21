@@ -31,7 +31,7 @@ Bloomberg/Python/kdb$+$/q).
 
 `2012-2015`
 __Quantitative Developer, Tibra Capital, London.__
-- Develop and back-test several equity and index future trading strategies, one of which has become the main revenue generation in kdb+/q.
+- Implement several equity and index future trading strategies, one of which has become the main revenue generation in kdb+/q.
 - Create, maintain and improve kdb+/q tick streaming analytics and time-series database.
 
 `2010 - 2012`
