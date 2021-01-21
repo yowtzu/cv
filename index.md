@@ -6,19 +6,19 @@ title: Yow Tzu Lim's CV
 Systematic Fixed Income Portfolio Manager
 <div id="webaddress">
 <a href="yowtzu.lim@gmail.com">yowtzu.lim@gmail.com</a>
-| <a href="http://yowtzu.github.io">yowtzu.github.io</a>
+| <a href="http://yowtzu.github.io/cv/">yowtzu.github.io/cv</a>
 </div>
 
 ## Employment
 `2015 - now`
 __Head of Credit Quantitative Investment, Schroders Asset Management, London.__
-- Launch and manage a systematic Euro IG credit portfolio using machine learning techniques with excess return: 250bps (IR = 3.5) since inception Dec 2018.
+- Launch and manage a systematic Euro IG credit portfolio using machine learning techniques with annualised excess return: 250bps (IR = 3.5) since inception Dec 2018.
 - Research and implement the asset allocation models for 2 global credit funds since inception 2016.
-- Build and lead the team and infrastructure from scratch.
+- Build and lead the team and research infrastructure from scratch.
 
 `2015`
 __Quantitative Analyst, Global Alpha Fund, Incapture Investments, London.__
-- Research and implement a systematic portfolio of event driven trading strategies on liquid futures with Sharpe Ratio: 2.7 in Python and kdb+/q.
+- Research and implement a systematic portfolio of event driven trading strategies on liquid futures with Sharpe ratio: 2.7 in Python and kdb+/q.
 
 `2012 - 2015`
 __Quantitative Developer, Tibra Capital, London.__
