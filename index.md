@@ -14,7 +14,7 @@ Systematic Portfolio Manager
 __Head of Credit Quantitative Investment, European Asset Management, London__
 - Research and manage a systematic Euro IG credit portfolio with annualised Excess Return: 250bps with positive skewness and Information Ratio: 3.5 since inception Dec 2018.
 - Research and implement the asset allocation models for 2 global credit funds since inception 2016.
-- Build the quantitative research infrastructure from scratch.
+- Build the quantitative research team and infrastructure from scratch.
 
 `2015`
 __Quantitative Analyst, Global Alpha Fund, Incapture Investments, London__
