@@ -3,102 +3,89 @@ layout: cv
 title: Yow Tzu Lim's CV
 ---
 # Yow Tzu Lim
-Systematic Portfolio Manager, Machine Learning Enthusiast.
+Systematic Portfolio Manager
 
 <div id="webaddress">
 <a href="yowtzu.lim@gmail.com">yowtzu.lim@gmail.com</a>
 | <a href="http://yowtzu.github.io">yowtzu.github.io</a>
 </div>
 
-
-## Profile
-
-A self-motivated quantitative portfolio manager with full-stack development experience.
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-
-
-
-
-
-
-
-
 ## Employment
 `2015 - now`
-__Asset Management, London__
-- Research, implement and manage a $\approx 250$M systematic Euro IG credit portfolio using ML techniques (Gradient Boosting/Random Forest/Convex Opt/Python) with annualised Excess Return: 250bps with positive skewness, Information Ratio $\approx 3.5$ since inception 2018.
-- Research and implement asset allocation models for 2 global credit funds (launched in June $16$, $\approx 5$B AUM) (Black-Litterman \& copula opinion pooling/Genetic Algorithms/R).
+__Portfolio Manager and Head of Credit Quantitative Investment, European Asset Management, London__
+- Research, implement and manage a 260M systematic Euro IG credit portfolio with annualised Excess Return: 250bps with positive skewness, Information Ratio: 3.5 since inception Dec 2018.
+- Built the team Built the cre
+Built the quantitat
+- Lead the quantitative team and di research on Research and implement asset allocation models for 2 global credit funds (launched in June $16$, $\approx 5$B AUM) (Black-Litterman \& copula opinion pooling/Genetic Algorithms/R).
 - Create RV model for bond screening (Kernel Regression/R/Shiny).
 - Design and build various batch processes and databases to capture bond analytics (Python).
 - Lead the quantitative team and direct research initiatives.
 
+`2015`
+__Quantitative Analyst, Global Alpha Fund, Incapture Investments, London__
+- Implement a portfolio of systematic, market-neutral, event driven trading strategies on liquid future with Sharpe Ratio: 2.7.
+Bloomberg/Python/kdb$+$/q).
+- Implement a new trading research platform from scratch and revamped various intraday event driven trading strategies using Bloomberg/Python/kdb+/q.
+- Automate various manual processes, including market data update, constant maturity time series construction and alpha event screening.
+- Build various batch processes and ad-hoc risk management tools (e.g., market data update, alpha event screener, VaR stress-testing report) on the internal cloud platform (Python).
+- Conducted preliminary alpha research on equity trading strategy.
+
+`2012-2015`
+__Quantitative Developer, Tibra Capital, London.__
+- Develop and back-test several equity and index future trading strategies, one of which has become the main revenue generation in kdb+/q.
+- Create, maintain and improve kdb+/q tick streaming analytics and time-series database.
+
+`2010 - 2012`
+__Analytics Developer, JP Morgan, London.__
+- Greenfield project: Prototype a NoSQL based distributed back-testing market data store with Restful Web Service in Cassandra/Java/Google Proto.
+- Develop and maintain equity quantitative models in kdb+/q.
+
+`Summary 2007, 2007, 2009`
+__Research Co-op, IBM T J Watson Research, NY, USA.__
+- Patent a learning inference framework using Genetic Programming (GP) technique.
+- Combine GP and simulation (similar to Reinforcement Learning) to infer security policies.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015`
+__MSc in Statistics__, Imperial College.
+- Thesis: Portfolio Optimisation with Sequential Monte Carlo
+- Awards: Distinction with best student presentation award
+  
+`2007-2011`
+__PhD in Computer Science, University of York__
+- Thesis: Security Policy Inference
+- Expertise: Evolutionary Algorithms, Heuristic Search and Optimisation, Rules Inference
+- Awards: IBM International Full PhD Studentship, One Patent filed
+- Teaching Experience: Advanced Programming, Network and Communication, Operating Systems
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2002 - 2006`
+__MEng (Hons) Computer Science, University of York__
+- Thesis: Real-time Scheduling in Java
+- Awards: Malaysia PSD Full Overseas Scholarship, University Bursaries, the best final year group project, The York Award
 
-- Sizar
+## Professional Activities
+`2018 - Now`
+FCA CF30 approved person
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2018`
+Investment Management Certification (IMC)
 
-- Fellow
+`2016`
+Introduction to Corporate Credit Analysis, Fitch Training
 
+`2015`
+Provide policy learning consultation to a security service start-up
 
+`2014`
+CUDA Programming on NVidia GPU, Oxford University
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2011`
+Distinction at Machine Learning Course by Andrew Ng
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: JAN 2021 -->
 
 
