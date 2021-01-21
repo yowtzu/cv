@@ -28,7 +28,6 @@ Bloomberg/Python/kdb$+$/q).
 - Implement a new trading research platform from scratch and revamped various intraday event driven trading strategies using Bloomberg/Python/kdb+/q.
 - Automate various manual processes, including market data update, constant maturity time series construction and alpha event screening.
 - Build various batch processes and ad-hoc risk management tools (e.g., market data update, alpha event screener, VaR stress-testing report) on the internal cloud platform (Python).
-- Conducted preliminary alpha research on equity trading strategy.
 
 `2012-2015`
 __Quantitative Developer, Tibra Capital, London.__
@@ -46,22 +45,21 @@ __Summer Research Co-op, IBM T J Watson Research, NY, USA.__
 - Combine GP and simulation (similar to Reinforcement Learning) to infer security policies.
 
 ## Education
-
 `2015`
-__MSc in Statistics, Imperial College.
+__MSc in Statistics, Imperial College.__
 - Thesis: Portfolio Optimisation with Sequential Monte Carlo
 - Awards: Distinction with best student presentation award
   
 `2007-2011`
-__PhD in Computer Science, University of York__
+__PhD in Computer Science, University of York.__
 - Thesis: Security Policy Inference
 - Expertise: Evolutionary Algorithms, Heuristic Search and Optimisation, Rules Inference
-- Awards: IBM International Full PhD Studentship, One Patent filed
+- Awards: IBM International Full PhD Studentship
 - Teaching Experience: Advanced Programming, Network and Communication, Operating Systems
 
 `2002 - 2006`
-__MEng (Hons) Computer Science, University of York__
-- *Awards:* Malaysia PSD Full Overseas Scholarship, University Bursaries, the best final year group project, The York Award
+__MEng (Hons) Computer Science, University of York.__
+- Awards: Malaysia PSD Full Overseas Scholarship, University Bursaries, the best final year group project, The York Award
 
 ## Professional Activities
 `2018 - Now`
