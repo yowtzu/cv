@@ -40,15 +40,15 @@ __Analytics Developer, JP Morgan, London.__
 - Greenfield project: Prototype a NoSQL based distributed back-testing market data store with Restful Web Service in Cassandra/Java/Google Proto.
 - Develop and maintain equity quantitative models in kdb+/q.
 
-`Summary 2007, 2007, 2009`
-__Research Co-op, IBM T J Watson Research, NY, USA.__
+`2007, 2007, 2009`
+__Summer Research Co-op, IBM T J Watson Research, NY, USA.__
 - Patent a learning inference framework using Genetic Programming (GP) technique.
 - Combine GP and simulation (similar to Reinforcement Learning) to infer security policies.
 
 ## Education
 
 `2015`
-__MSc in Statistics__, Imperial College.
+__MSc in Statistics, Imperial College.
 - Thesis: Portfolio Optimisation with Sequential Monte Carlo
 - Awards: Distinction with best student presentation award
   
@@ -61,8 +61,7 @@ __PhD in Computer Science, University of York__
 
 `2002 - 2006`
 __MEng (Hons) Computer Science, University of York__
-- Thesis: Real-time Scheduling in Java
-- Awards: Malaysia PSD Full Overseas Scholarship, University Bursaries, the best final year group project, The York Award
+- *Awards:* Malaysia PSD Full Overseas Scholarship, University Bursaries, the best final year group project, The York Award
 
 ## Professional Activities
 `2018 - Now`
