@@ -14,7 +14,7 @@ Systematic Fixed Income Portfolio Manager
 __Head of Credit Quantitative Investment, Schroders Asset Management, London.__
 - Launched and currently manage a systematic Euro IG credit portfolio using machine learning techniques (Gradient Boosting, Multi-period Optimisation) since Dec 2018.
 - Portfolio uses sector specfic fundamental factors, equity factors on top of traditional credit factors.
-- Portfolio ex-post annualised excess return: 250bps (IR = 3.5, Hit Rate = 75%).
+- Portfolio annualised excess return: 250bps (IR = 3.5, top 3rd percentile).
 - Research and implement systematic RV trading idea and asset allocation models for 2 global credit funds since inception 2016.
 - Build and lead the team and research infrastructure from scratch.
 
@@ -75,6 +75,6 @@ Distinction at Machine Learning Course by Andrew Ng
 
 <!-- ### Footer
 
-Last updated: JAN 2021 -->
+Last updated: FEB 2021 -->
 
 
