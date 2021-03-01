@@ -16,7 +16,7 @@ __Head of Credit Quantitative Investment, Schroders Asset Management, London.__
 - Portfolio uses sector specfic fundamental factors, equity factors on top of traditional credit factors.
 - Portfolio annualised excess return: 250bps (IR = 3.5, top 3rd percentile).
 - Machine Learning Techniques: Gradient Boosting, Multi-period Optimisation
-- Research and implement systematic RV trading idea and asset allocation models for 2 global credit funds since inception 2016.
+- Research and implement RV trading idea and asset allocation models for 2 global credit funds since inception 2016.
 - Build and lead the team and research infrastructure from scratch.
 
 `2015`
