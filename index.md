@@ -10,7 +10,12 @@ Systematic Fixed Income Portfolio Manager
 </div>
 
 ## Employment
-`2015 - now`
+`2021 - Now`
+__Portfolio Manager, Millenium Capital Partner, London.__
+- Launch and manage a systematic USD credit portfolio
+
+
+`2015 - 2021`
 __Head of Credit Quantitative Investment, Schroders Asset Management, London.__
 - Launch and manage a systematic Euro IG credit portfolio using machine learning techniques with annualised excess return: 250bps (IR = 3.5) since inception Dec 2018.
 - Research and implement the asset allocation models for 2 global credit funds since inception 2016.
