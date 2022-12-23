@@ -10,7 +10,11 @@ Systematic Fixed Income Portfolio Manager
 </div>
 
 ## Employment
-`2015 - now`
+`2011 - Now`
+__Portfolio Manager, Hedge Fund, London.__
+- Launched and currently manage a systematic US credit portfolio since Dec 2021.
+
+`2015 - 2011`
 __Head of Credit Quantitative Investment, Schroders Asset Management, London.__
 - Launched and currently manage a systematic Euro IG credit portfolio since Dec 2018.
 - Portfolio uses sector specfic fundamental factors, equity factors on top of traditional credit factors.
