@@ -14,13 +14,14 @@ Systematic Fixed Income Portfolio Manager
 __Portfolio Manager, Hedge Fund, London.__
 - Launched and currently manage a systematic US credit portfolio since Dec 2021.
 
-`2015 - 2011`
+`2015 - 2021`
 __Head of Credit Quantitative Investment, Schroders Asset Management, London.__
-- Launched and currently manage a systematic Euro IG credit portfolio since Dec 2018.
-- Portfolio uses sector specfic fundamental factors, equity factors on top of traditional credit factors.
-- Portfolio annualised excess return: 250bps (IR = 3.5, top 3rd percentile).
+- Launched and currently manage a systematic Euro IG credit portfolio since 2018.
+- Portfolio performance: IR = 3.5, top 3rd percentile vs the peers, Annualised Excess Return: 250bps.
+- Portfolio uses sector specfic fundamental signals, equity based signals on top of typical credit factors.
 - Machine Learning Techniques: Gradient Boosting, SHAP Value, Multi-period Optimisation.
-- Research and implement RV trading idea and asset allocation models for 2 global credit funds since inception 2016.
+- The strategy is extended and launched in USD IG credit market since 2021.
+<!-- - Research and implement RV trading idea and asset allocation models for 2 global credit funds since inception 2016. -->
 - Build and lead the team and research infrastructure from scratch.
 
 `2015`
@@ -80,6 +81,6 @@ Distinction at Machine Learning Course by Andrew Ng
 
 <!-- ### Footer
 
-Last updated: FEB 2021 -->
+Last updated: DEC 2022 -->
 
 
