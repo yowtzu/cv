@@ -10,7 +10,7 @@ Systematic Fixed Income Credit Portfolio Manager
 </div>
 
 ## Employment
-`2011 - Now`
+`2021 - Current`
 __Portfolio Manager, Millenium Capital Partners, London.__
 - Research, implement and manage a systematic market neutral USD IG/HY credit portfolio with high Sharpe ratio since 2021.
 
