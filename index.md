@@ -16,7 +16,7 @@ __Portfolio Manager, Millenium Capital Partners, London.__
 
 `2015 - 2021`
 __Head of Credit Quantitative Investment, Schroders Asset Management, London.__
-- Launch and manage a systematic Euro IG credit portfolio with high performance: Information Ratio: 3.5, top 3rd percentile vs the peers, Annualised Excess Return: 250bps.
+- Launch and manage a systematic Euro IG credit portfolio with high performance: Information Ratio: 3.5 (top 3rd percentile vs the peers), Excess Return: 250bps.
 - Portfolio uses sector specfic fundamental signals, equity based signals on top of typical credit factors with machine learning techniques.
 - Successfully extend the strategy to USD IG credit market.
 - Build and lead the team and research from scratch.
