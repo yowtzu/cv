@@ -42,6 +42,7 @@ __Summer Research Co-op, IBM T J Watson Research, NY, USA.__
 - Patent a learning inference framework using evoluationary algorithms.
 - Combine EA with simulation (similar to Reinforcement Learning) to infer security policies.
 
+
 ## Education
 `2015`
 __MSc in Statistics, Imperial College.__
@@ -58,6 +59,7 @@ __PhD in Computer Science, University of York.__
 `2002 - 2006`
 __MEng (Hons) Computer Science, University of York.__
 - Awards: Malaysia PSD Full Overseas Scholarship, University Bursaries, the best group project
+
 
 ## Professional Activities
 `2018 - Now`
