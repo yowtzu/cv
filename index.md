@@ -39,8 +39,8 @@ __Analytics Developer, JP Morgan, London.__
 
 `2007 - 2009`
 __Summer Research Co-op, IBM T J Watson Research, NY, USA.__
-- Patent a learning inference framework using Genetic Programming (GP) technique.
-- Combine GP and simulation (similar to Reinforcement Learning) to infer security policies.
+- Patent a learning inference framework using evoluationary algorithms.
+- Combine EA with simulation (similar to Reinforcement Learning) to infer security policies.
 
 ## Education
 `2015`
