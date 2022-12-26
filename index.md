@@ -8,6 +8,7 @@ Systematic Credit Portfolio Manager
 <a href="yowtzu.lim@gmail.com">yowtzu.lim@gmail.com</a>
 | <a href="http://yowtzu.github.io/cv/">yowtzu.github.io/cv</a>
 </div>
+
 ## Employment
 `2011 - Now`
 __Portfolio Manager, Millenium Capital Partners, London.__
