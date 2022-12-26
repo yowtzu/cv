@@ -30,7 +30,7 @@ __Quantitative Analyst, Global Alpha Fund, Incapture Investments, London.__
 `2012 - 2015`
 __Quantitative Developer, Tibra Capital, London.__
 - Implement equity and index future trading strategies, one of which has become the main revenue generation in kdb+/q.
-- Create, maintain and improve kdb+/q tick streaming analytics and time-series database.
+- Create, maintain and improve kdb+/q tick streaming analytics and database.
 
 `2010 - 2012`
 __Analytics Developer, JP Morgan, London.__
