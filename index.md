@@ -12,7 +12,7 @@ Systematic Credit Portfolio Manager
 ## Employment
 `2011 - Now`
 __Portfolio Manager, Millenium Capital Partners, London.__
-- Build and manage a systematic market neutral USD IG/HY credit portfolio since 2021 with high Sharpe ratio
+- Build and manage a systematic market neutral USD IG/HY credit portfolio since 2021 with high Sharpe ratio.
 
 `2015 - 2021`
 __Head of Credit Quantitative Investment, Schroders Asset Management, London.__
@@ -21,7 +21,6 @@ __Head of Credit Quantitative Investment, Schroders Asset Management, London.__
 - Portfolio uses sector specfic fundamental signals, equity based signals on top of typical credit factors.
 - Machine Learning Techniques: Gradient Boosting, SHAP Value, Multi-period Optimisation.
 - The strategy is extended and launched in USD IG credit market since 2021.
-<!-- - Research and implement RV trading idea and asset allocation models for 2 global credit funds since inception 2016. -->
 - Build and lead the team and research from scratch.
 
 `2015`
