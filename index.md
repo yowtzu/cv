@@ -8,7 +8,6 @@ Systematic Credit Portfolio Manager
 <a href="yowtzu.lim@gmail.com">yowtzu.lim@gmail.com</a>
 | <a href="http://yowtzu.github.io/cv/">yowtzu.github.io/cv</a>
 </div>
-
 ## Employment
 `2011 - Now`
 __Portfolio Manager, Millenium Capital Partners, London.__
@@ -41,7 +40,6 @@ __Analytics Developer, JP Morgan, London.__
 __Summer Research Co-op, IBM T J Watson Research, NY, USA.__
 - Patent a learning inference framework using evoluationary algorithms.
 - Combine EA with simulation (similar to Reinforcement Learning) to infer security policies.
-
 ## Education
 `2015`
 __MSc in Statistics, Imperial College.__
@@ -58,7 +56,6 @@ __PhD in Computer Science, University of York.__
 `2002 - 2006`
 __MEng (Hons) Computer Science, University of York.__
 - Awards: Malaysia PSD Full Overseas Scholarship, University Bursaries, the best group project
-
 ## Professional Activities
 `2018 - Now`
 FCA CF30 approved person
@@ -77,7 +74,6 @@ CUDA Programming on NVidia GPU, Oxford University
 
 `2011`
 Distinction at Machine Learning Course by Andrew Ng
-
 <!-- ### Footer
 
 Last updated: DEC 2022 -->
