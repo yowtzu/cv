@@ -11,7 +11,7 @@ Systematic Fixed Income Portfolio Manager
 
 ## Employment
 `2021 - Now`
-__Portfolio Manager, Millenium Capital Partner, London.__
+__Portfolio Manager, Millenium Capital Partners, London.__
 - Launch and manage a systematic global credit portfolio.
 
 
