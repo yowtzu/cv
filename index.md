@@ -15,7 +15,7 @@ __Portfolio Manager, Millenium Capital Partners, London.__
 - Research, implement and manage a liquid global credit portfolio with high Sharpe ratio.
 - Portfolio uses sector specfic fundamental signals, equity based signals on top of typical credit factors with machine learning techniques.
 - Research, implement and automate credit event trading with discretionary overlay.
-- 
+
 `2015 - 2021`
 __Head of Credit Quantitative Investment, Schroders Asset Management, London.__
 - Launch and manage a systematic Euro IG credit portfolio with high performance: Information Ratio: 3.5 (top 3rd percentile vs the peers), Excess Return: 250bps.
