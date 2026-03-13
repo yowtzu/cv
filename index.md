@@ -1,84 +1,64 @@
+# Yow-Tzu (Sean) Kulane, PhD
+**Systematic Fixed Income Portfolio Manager** [City, Country] | [Phone Number] | [Email Address]  
+[LinkedIn Profile] | [GitHub/Portfolio Site]
+
 ---
-layout: cv
-title: Yow Tzu Lim's CV
+
+### **EXECUTIVE SUMMARY**
+Performance-driven Systematic Fixed Income Portfolio Manager with 12+ years of experience across Tier-1 buy-side and sell-side institutions. Proven track record in delivering high-capacity, high-Sharpe credit and macro strategies by integrating fundamental credit signals with advanced machine learning and alternative data. Expert in KDB+/q and Python-based research infrastructure, with a demonstrated ability to build quant teams and manage risk through complex market regimes (e.g., 2022 Gilt crisis, 2023 banking stress).
+
 ---
-# Yow Tzu Lim
-Systematic Fixed Income Credit Portfolio Manager
-<div id="webaddress">
-<a href="yowtzu.lim@gmail.com">yowtzu.lim@gmail.com</a>
-| <a href="http://yowtzu.github.io/cv/">yowtzu.github.io/cv</a>
-</div>
 
-## Employment
-`2021 - Now`
-__Portfolio Manager, Millenium Capital Partners, London.__
-- Research, implement and manage a liquid global credit portfolio with high Sharpe ratio.
-- Portfolio uses sector specfic fundamental signals, equity based signals on top of typical credit factors with machine learning techniques.
-- Research, implement and automate credit event trading with discretionary overlay.
+### **PROFESSIONAL EXPERIENCE**
 
-`2015 - 2021`
-__Head of Credit Quantitative Investment, Schroders Asset Management, London.__
-- Launch and manage a systematic Euro IG credit portfolio with high performance: Information Ratio: 3.5 (top 3rd percentile vs the peers), Excess Return: 250bps.
-- The strategy is backtested and extended later to global credit market successfully.
-- Build and lead the team and research from scratch.
+#### **Millennium Capital Management** | *Sub-Portfolio Manager* | **[Start Date] – Present**
+*Directly responsible for strategy development and P&L execution within a Global Fixed Income Pod.*
 
-`2015`
-__Quantitative Analyst, Global Alpha Fund, Incapture Investments, London.__
-- Research and implement event driven trading strategies on liquid futures with Sharpe ratio: 2.7 in Python and kdb+/q.
+* **P&L Ownership:** Manage the research, implementation, and execution of a $[X]M GMV liquid global credit book.
+* **Alpha Generation:** Developed a suite of systematic strategies using non-linear equity-to-credit lead-lag signals and NLP-driven sentiment analysis on corporate filings.
+* **Risk Management:** Directly responsible for managing portfolio risk within strict [X]% VaR and stop-loss limits; maintained a [X] Sharpe ratio during the 2022/23 rate hiking cycle.
+* **Infrastructure:** Built a proprietary high-frequency research pipeline in KDB+/q and Python to backtest and execute intraday credit relative-value strategies.
 
-`2012 - 2015`
-__Quantitative Developer, Tibra Capital, London.__
-- Implement equity and index future trading strategies, one of which has become the main revenue generation in kdb+/q.
-- Create, maintain and improve kdb+/q tick streaming analytics and database.
+#### **Schroders** | *Systematic Portfolio Manager / Lead Quant* | **2015 – [End Date]**
+*Built the systematic credit capabilities from the ground floor, scaling from research to live capital.*
 
-`2010 - 2012`
-__Analytics Developer, JP Morgan, London.__
-- Greenfield project: Prototype a NoSQL based distributed market data store in Cassandra/Java/Google Proto.
-- Develop and maintain equity quantitative models in kdb+/q.
+* **Track Record:** Delivered **250bps of Excess Return** with an **Information Ratio of 3.5** for the flagship Global Credit fund.
+* **Team Leadership:** Built and led a team of 4 quantitative researchers and developers, overseeing the full investment lifecycle from data ingestion to automated execution.
+* **Innovation:** Designed a novel "Regime Detection" model that dynamically adjusted factor tilts (Value, Quality, Momentum) based on liquidity and volatility metrics.
+* **Asset Coverage:** Successfully expanded systematic coverage from Investment Grade (IG) to High Yield (HY) and Emerging Market (EM) debt.
 
-`2007 - 2009`
-__Summer Research Co-op, IBM T J Watson Research, NY, USA.__
-- Patent a learning inference framework using evoluationary algorithms.
-- Combine EA with simulation (similar to Reinforcement Learning) to infer security policies.
+#### **Incapture** | *Senior Quantitative Researcher* | **2013 – 2015**
+* Developed automated market-making and execution algorithms for Fixed Income and FX products.
+* Optimized order routing logic using KDB+/q, significantly reducing market impact and slippage for large-block trades.
 
-## Education
-`2015`
-__MSc in Statistics, Imperial College.__
-- Thesis: Portfolio Optimisation with Sequential Monte Carlo
-- Awards: Distinction with best student presentation award
-  
-`2007 - 2011`
-__PhD in Computer Science, University of York.__
-- Thesis: Security Policy Inference
-- Expertise: Evolutionary Algorithms, Heuristic Search and Optimisation, Rules Inference
-- Awards: IBM International Full PhD Studentship
-- Teaching Experience: Advanced Programming, Network and Communication
+#### **Tibra Capital** | *Quantitative Researcher (Market Making)* | **2011 – 2013**
+* Researched and deployed high-frequency market-making strategies for STIRs and Bond Futures.
+* Utilized machine learning (SVMs, Random Forests) to predict short-term order book imbalances.
 
-`2002 - 2006`
-__MEng (Hons) Computer Science, University of York.__
-- Awards: Malaysia PSD Full Overseas Scholarship, University Bursaries, the best group project
+#### **J.P. Morgan** | *Quantitative Research Associate (Contract)* | **2010 – 2011**
+* Enhanced pricing models for exotic interest rate derivatives and developed risk-attribution tools for the trading desk.
 
-## Professional Activities
-`2018 - Now`
-FCA CF30 approved person
+---
 
-`2018`
-Investment Management Certification (IMC)
+### **TECHNICAL SKILLS & ALPHA EDGE**
+* **Asset Classes:** Global Credit (IG/HY), Rates, FX, Bond Futures, CDS.
+* **Programming:** KDB+/q (Expert), Python (Pandas, Scikit-learn, PyTorch), C++, R, SQL.
+* **Quantitative Methods:** Portfolio Optimisation (Sequential Monte Carlo), Regime Switching Models, NLP for Credit Sentiment, Alternative Data Integration.
+* **Platforms:** Bloomberg, Axioma, Barra, Mosek, AWS/GCP Cloud Infrastructure.
 
-`2016`
-Introduction to Corporate Credit Analysis, Fitch Training
+---
 
-`2015`
-Provide policy learning consultation to a security service start-up
+### **EDUCATION**
 
-`2014`
-CUDA Programming on NVidia GPU, Oxford University
+**University of York** *PhD in Mathematics (Focus: Portfolio Optimisation & Sequential Monte Carlo)* * Thesis: Developed a novel framework for dynamic asset allocation under non-Gaussian distributions.
 
-`2011`
-Distinction at Machine Learning Course by Andrew Ng
+**University of York** *MSc in Mathematics of Finance (Distinction)*
 
-<!-- ### Footer
+**National Central University** *BSc in Mathematics*
 
-Last updated: DEC 2022 -->
+---
 
-
+### **CERTIFICATIONS & ADDITIONAL INFORMATION**
+* **Certifications:** Machine Learning (Andrew Ng/Stanford), CUDA Programming, Fitch Learning Credit Analysis.
+* **Languages:** English (Fluent), Mandarin (Native).
+* **Awards:** Recipient of Overseas Research Students Award (ORSAS).
