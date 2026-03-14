@@ -61,8 +61,6 @@ __PhD in Computer Science, University of York. Thesis: Security Policy Inference
 `2002`
 __MEng (Hons) Computer Science, University of York.__
 
----
-
 ## Addtional Information
 - __Programming__: Claude, Python (polars, pandas, parquet, catboost, cvxpy), kdb+/q, R.
 - __Platforms__: Bloomberg BQuant, MarketAxess, kdb tick storage.
