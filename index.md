@@ -51,7 +51,9 @@ __Research Co-op, IBM T J Watson Research, NY, USA.__
 - Patent a learning inference framework using Genetic Programming (GP) technique.
 - Combine GP and simulation (similar to Reinforcement Learning) to infer security policies.
 
-### **TECHNICAL SKILLS**
+---
+
+## TECHNICAL SKILLS
 - __Programming:__ Claude, Python (polars, pandas, parquet, catboost, cvxpy), kdb+/q, R, SQL.
 - __Platforms:__ Bloomberg BQuant, MarketAxess, kdb tick storage.
 
@@ -76,7 +78,7 @@ __MEng (Hons) Computer Science, University of York.__
 
 ---
 
-### **CERTIFICATIONS & ADDITIONAL INFORMATION**
-* **Certifications:** FCA CF30, IMC Machine Learning (Andrew Ng/Stanford), CUDA Programming, Fitch Learning Credit Analysis.
-* **Languages:** English (Fluent), Mandarin (Native), Cantonese (Fluent), Malay (Fluent).
-* **Awards:** IBM International Full PhD Studentship, Malaysia PSD Full Overseas Scholarship, various best student projects.
+### CERTIFICATIONS & ADDITIONAL INFORMATION
+- __Certifications:__ FCA CF30, IMC Machine Learning (Andrew Ng/Stanford), CUDA Programming, Fitch Learning Credit Analysis.
+_ __Languages:__ English (Fluent), Mandarin (Native), Cantonese (Fluent), Malay (Fluent).
+- __Awards:__ IBM International Full PhD Studentship, Malaysia PSD Full Overseas Scholarship, various best student projects.
