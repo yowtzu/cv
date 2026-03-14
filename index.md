@@ -10,9 +10,9 @@ Systematic Fixed Income Portfolio Manager
 </div>
 
 ## Executive Summary
-Performance-driven __Systematic Fixed Income Portfolio Manager__ with 10+ years of buy-side experience. 
-Proven track record in managing institutional capital, delivering high-capacity, high-Sharpe credit and macro strategies. 
-Expert in integrating proprietary alpha signals and robust risk management through extreme regimes (2020 COVID, 2022-23 Rate Volatility).
+- Performance-driven __Systematic Fixed Income Portfolio Manager__ with 10+ years of buy-side experience. 
+- Proven track record in managing institutional capital, delivering high-capacity, high-Sharpe credit and macro strategies. 
+- Expert in integrating proprietary alpha signals and robust risk management through extreme regimes (2020 COVID, 2022-23 Rate Volatility).
 
 ## Employment
 `2021`
