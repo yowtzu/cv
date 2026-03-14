@@ -15,10 +15,8 @@ Performance-driven Systematic Fixed Income Portfolio Manager with 10+ years of e
 ## Employment
 `2021` __Sub-Portfolio Manager, Millenium Capital Partners, London.__
 - Directly responsible for credit strategy development and P&L within a global pod.
-
-*P&L Ownership:* Manage the research, implementation, and execution of a liquid global credit book.
-
-*Alpha Generation:* Developed a suite of systematic strategies across global cash bonds and fixed income ETFs using bottom up and macro signals.
+- **P&L Ownership:** Manage the research, implementation, and execution of a liquid global credit book.
+-- **Alpha Generation:** Developed a suite of systematic strategies across global cash bonds and fixed income ETFs using bottom up and macro signals.
 
 *Risk Management:* Directly responsible for managing portfolio risk within strict VaR and stop-loss limits; maintained a >2.5 Sharpe ratio.
 
