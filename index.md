@@ -9,7 +9,7 @@ Systematic Fixed Income Portfolio Manager
 | <a href="http://yowtzu.github.io/cv/">yowtzu.github.io/cv</a>
 </div>
 
-## EXECUTIVE SUMMARY
+## Executive Summary
 Performance-driven Systematic Fixed Income Portfolio Manager with 10+ years of buy-side experience.
 Proven track record in delivering high-capacity, high-Sharpe credit and macro strategies by integrating alpha signals with machine learning techniques.
 Strong experience in research infrastructure, with a demonstrated ability to build quant teams and manage risk through complex market regimes (e.g., 2020 covid, 2023 banking stress).
@@ -55,24 +55,17 @@ __Research Co-op, IBM T J Watson Research, NY, USA.__
 
 ## Education
 `2014`
-__MSc in Statistics, Imperial College.__
-- Thesis: Portfolio Optimisation with Sequential Monte Carlo
-- Awards: Distinction with best student presentation award
+__MSc in Statistics, Imperial College, London. Results: Distinction__
   
 `2006`
-__PhD in Computer Science, University of York.__
-- Thesis: Security Policy Inference
-- Expertise: Evolutionary Algorithms, Heuristic Search and Optimisation, Rules Inference
-- Awards: IBM International Full PhD Studentship
-- Teaching Experience: Advanced Programming, Network and Communication
+__PhD in Computer Science, University of York. Thesis: Security Policy Inference__
 
 `2002`
 __MEng (Hons) Computer Science, University of York.__
-- Awards: Malaysia PSD Full Overseas Scholarship, University Bursaries, the best group project
 
 ---
 
-## CERTIFICATIONS & ADDITIONAL INFORMATION
+## Addtional Information
 - __Programming__: Claude, Python (polars, pandas, parquet, catboost, cvxpy), kdb+/q, R, SQL.
 - __Platforms__: Bloomberg BQuant, MarketAxess, kdb tick storage.
 - __Certifications:__ FCA CF30, IMC Machine Learning (Andrew Ng/Stanford), CUDA Programming, Fitch Learning Credit Analysis.
