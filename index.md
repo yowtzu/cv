@@ -57,7 +57,7 @@ __MEng (Hons) Computer Science__, University of York.
 
 ## Additional Information
 - __Quantitative Stack__: Python (polars, catboost, cvxpy), kdb+/q, R, LLM-Augmented Research (Claude/GPT-4).
-- __Execution & Data__: Bloomberg, MarketAxess, Trumid, kdb+ tick storage, Parquet/Vectorized backtesting.
+- __Execution & Data__: Bloomberg, MarketAxess, Trumid, kdb+ tick storage, Parquet.
 - __Certifications__: FCA CF30 (Active), IMC, Machine Learning, CUDA Programming, Fitch Training Credit Analysis.
 - __Languages__: English, Mandarin, Cantonese, Malay.
 - __Awards__: IBM International Full PhD Studentship, Malaysia PSD Full Overseas Scholarship.
