@@ -58,7 +58,7 @@ __Research Co-op, IBM T J Watson Research, NY, USA.__
 ---
 
 ## Education
-`2015`
+`2014`
 __MSc in Statistics, Imperial College.__
 - Thesis: Portfolio Optimisation with Sequential Monte Carlo
 - Awards: Distinction with best student presentation award
