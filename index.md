@@ -36,7 +36,7 @@ Architected the firm’s systematic credit capability from inception to live ins
 **Quantitative Analyst, Global Alpha Fund, Incapture Investments, London**
 - Research and implementation of systematic event-driven strategies on liquid futures (__Sharpe >2.5__) using Python and kdb+/q.
 
-`2010–2014`
+`2010`
 **Quantitative Development (Tibra Capital & JP Morgan), London**
 - **Tibra:** Implemented equity/index future strategies; developed core kdb+ tick streaming analytics and time-series infrastructure.
 - **JPM:** Prototypes of NoSQL distributed market data stores (Cassandra/Java) and equity quant models in kdb+.
@@ -58,6 +58,6 @@ __MEng (Hons) Computer Science__, University of York.
 ## Additional Information
 - __Quantitative Stack__: Python (polars, catboost, cvxpy), kdb+/q, R, LLM-Augmented Research (Claude/GPT-4).
 - __Execution & Data__: Bloomberg BQuant, MarketAxess, kdb+ tick storage, Parquet/Vectorized backtesting.
-- __Certifications__: FCA CF30 (Active), IMC, CUDA Programming, Fitch Learning Credit Analysis.
+- __Certifications__: FCA CF30 (Active), IMC, CUDA Programming, Fitch Credit Analysis.
 - __Languages__: English, Mandarin, Cantonese, Malay.
-- __Awards__: IBM International Full PhD Studentship, Malaysia PSD Full Overseas Scholarship, various best student projects.
+- __Awards__: IBM International Full PhD Studentship, Malaysia PSD Full Overseas Scholarship.
