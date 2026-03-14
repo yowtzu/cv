@@ -10,7 +10,9 @@ Systematic Fixed Income Portfolio Manager
 </div>
 
 ## EXECUTIVE SUMMARY
-Performance-driven Systematic Fixed Income Portfolio Manager with 10+ years of experience across Tier-1 buy-side institutions. Proven track record in delivering high-capacity, high-Sharpe credit and macro strategies by integrating alpha signals with advanced machine learning. Strong experience in research infrastructure, with a demonstrated ability to build quant teams and manage risk through complex market regimes (e.g., 2020 covid, 2023 banking stress).
+Performance-driven Systematic Fixed Income Portfolio Manager with 10+ years of buy-side experience.
+Proven track record in delivering high-capacity, high-Sharpe credit and macro strategies by integrating alpha signals with machine learning techniques.
+Strong experience in research infrastructure, with a demonstrated ability to build quant teams and manage risk through complex market regimes (e.g., 2020 covid, 2023 banking stress).
 
 ## Employment
 `2021`
