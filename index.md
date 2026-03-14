@@ -73,6 +73,8 @@ __MEng (Hons) Computer Science, University of York.__
 ---
 
 ## CERTIFICATIONS & ADDITIONAL INFORMATION
+- __Programming__: Claude, Python (polars, pandas, parquet, catboost, cvxpy), kdb+/q, R, SQL.
+- __Platforms__: Bloomberg BQuant, MarketAxess, kdb tick storage.
 - __Certifications:__ FCA CF30, IMC Machine Learning (Andrew Ng/Stanford), CUDA Programming, Fitch Learning Credit Analysis.
 _ __Languages:__ English (Fluent), Mandarin (Native), Cantonese (Fluent), Malay (Fluent).
 - __Awards:__ IBM International Full PhD Studentship, Malaysia PSD Full Overseas Scholarship, various best student projects.
