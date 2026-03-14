@@ -19,18 +19,18 @@ Strong experience in research infrastructure, with a demonstrated ability to bui
 _Portfolio Manager, Millenium Capital Partners, London._
 
 Directly responsible for credit strategy development and P&L within a global pod.
-- **P&L Ownership:** Manage the research, implementation, and execution of a liquid global credit book.
-- **Alpha Generation:** Developed a suite of systematic strategies across global cash bonds and fixed income ETFs using bottom up and macro signals.
-- **Risk Management:** Directly responsible for managing portfolio risk within strict VaR and stop-loss limits; maintained a >2.5 Sharpe ratio.
-- **Infrastructure:** Built a proprietary research pipeline in python to backtest and execute strategies.
+- __P&L Ownership:__ Manage the research, implementation, and execution of a liquid global credit book.
+- __Alpha Generation:__ Developed a suite of systematic strategies across global cash bonds and fixed income ETFs using bottom up and macro signals.
+- __Risk Management:__ Directly responsible for managing portfolio risk within strict VaR and stop-loss limits; maintained a ___Sharpe Ratio of >2.5___.
+- __Infrastructure:__ Built a proprietary research pipeline in python to backtest and execute strategies.
 
 `2015`
-__Head of Credit Quantitative Investment, Schroders Asset Management, London.__
+_Head of Credit Quantitative Investment, Schroders Asset Management, London._
 
 Built the systematic credit capabilities from the ground floor, scaling from research to live capital.
-- **Track Record:** Delivered *250bps of Excess Return* with an *Information Ratio of 3.5*  (top 3rd percentile) for the Euro IG credit portfolio over covid period.
-- **Team Leadership:** Built and led a team of 4 quantitative researchers and developers, overseeing the full investment lifecycle from data ingestion to automated execution.
-- **Asset Coverage:** Successfully expanded systematic coverage from Euro to USD, from Investment Grade (IG) to High Yield (HY).
+- __Track Record:__ Delivered ___250bps of Excess Return___ with an ___Information Ratio of 3.5*___ (top 3rd percentile) for the Euro IG credit portfolio over covid period.
+- __Team Leadership:__ Built and led a team of 4 quantitative researchers and developers, overseeing the full investment lifecycle from data ingestion to automated execution.
+- __Asset Coverage:__ Successfully expanded systematic coverage from Euro to USD, from Investment Grade (IG) to High Yield (HY).
 
 `2015`
 __Quantitative Analyst, Global Alpha Fund, Incapture Investments, London.__
