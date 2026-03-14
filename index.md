@@ -28,13 +28,13 @@ Direct P&L responsibility for a global credit book within a multi-strat pod.
 _Head of Credit Quantitative Investment, Schroders Asset Management, London._
 
 Architected the firm’s systematic credit capability from inception to live institutional capital.
-- __Track Record:__ Delivered __250bps of Excess Return__ with an __Information Ratio of 3.5__ (Top 3rd percentile vs. the peer) for the Euro IG portfolio through the 2020 pandemic volatility.
+- __Track Record:__ Delivered __250bps of Excess Return__ with an __Information Ratio of 3.5__ (Top 5% percentile) for the Euro IG portfolio through the COVID volatility.
 - __Team Leadership:__ Recruited and led a team of 4 quant researchers/developers, overseeing the full investment lifecycle from data ingestion to automated execution.
 - __Asset Coverage:__ Scaled the strategy from regional to global credit, managing complex liquidity constraints and factor attribution.
 
 `2015`
 **Quantitative Analyst, Global Alpha Fund, Incapture Investments, London**
-- Research and implementation of systematic event-driven strategies on liquid futures (__Sharpe >2.5__) using Python and kdb+/q.
+- Research and implementation of systematic event-driven strategies on liquid futures (__Sharpe >2.7__) using Python and kdb+/q.
 
 `2010`
 **Quantitative Development (Tibra Capital & JP Morgan), London**
