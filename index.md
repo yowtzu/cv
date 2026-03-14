@@ -27,8 +27,8 @@ Directly responsible for credit strategy development and P&L within a global pod
 `2015`
 _Head of Credit Quantitative Investment, Schroders Asset Management, London._
 
-Built the systematic credit capabilities from the ground floor, scaling from research to live capital.
-- __Track Record:__ Delivered ___250bps of Excess Return___ with an ___Information Ratio of 3.5*___ (top 3rd percentile) for the Euro IG credit portfolio over covid period.
+Built the systematic credit capabilities from ground p, scaling from research to live capital.
+- __Track Record:__ Delivered ___250bps of Excess Return___ with an ___Information Ratio of 3.5___ (top 3rd percentile) for the Euro IG credit portfolio over covid period.
 - __Team Leadership:__ Built and led a team of 4 quantitative researchers and developers, overseeing the full investment lifecycle from data ingestion to automated execution.
 - __Asset Coverage:__ Successfully expanded systematic coverage from Euro to USD, from Investment Grade (IG) to High Yield (HY).
 
@@ -36,17 +36,17 @@ Built the systematic credit capabilities from the ground floor, scaling from res
 __Quantitative Analyst, Global Alpha Fund, Incapture Investments, London.__
 - Research and implement a systematic portfolio of event driven trading strategies on liquid futures with Sharpe ratio: 2.7 in Python and kdb+/q.
 
-`2012 - 2015`
+`2012`
 __Quantitative Developer, Tibra Capital, London.__
 - Implement several equity and index future trading strategies, one of which has become the main revenue generation in kdb+/q.
 - Create, maintain and improve kdb+/q tick streaming analytics and time-series database.
 
-`2010 - 2012`
+`2010`
 __Analytics Developer, JP Morgan, London.__
 - Greenfield project: Prototype a NoSQL based distributed market data store in Cassandra/Java/Google Proto.
 - Develop and maintain equity quantitative models in kdb+/q.
 
-`2007 - 2009`
+`2007`
 __Research Co-op, IBM T J Watson Research, NY, USA.__
 - Patent a learning inference framework using Genetic Programming (GP) technique.
 - Combine GP and simulation (similar to Reinforcement Learning) to infer security policies.
