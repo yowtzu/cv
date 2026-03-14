@@ -16,7 +16,7 @@ Strong experience in research infrastructure, with a demonstrated ability to bui
 
 ## Employment
 `2021`
-__Portfolio Manager, Millenium Capital Partners, London.__
+_Portfolio Manager, Millenium Capital Partners, London._
 
 Directly responsible for credit strategy development and P&L within a global pod.
 - **P&L Ownership:** Manage the research, implementation, and execution of a liquid global credit book.
