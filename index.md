@@ -53,12 +53,6 @@ __Research Co-op, IBM T J Watson Research, NY, USA.__
 
 ---
 
-## TECHNICAL SKILLS
-- __Programming:__ Claude, Python (polars, pandas, parquet, catboost, cvxpy), kdb+/q, R, SQL.
-- __Platforms:__ Bloomberg BQuant, MarketAxess, kdb tick storage.
-
----
-
 ## Education
 `2014`
 __MSc in Statistics, Imperial College.__
@@ -78,7 +72,7 @@ __MEng (Hons) Computer Science, University of York.__
 
 ---
 
-### CERTIFICATIONS & ADDITIONAL INFORMATION
+## CERTIFICATIONS & ADDITIONAL INFORMATION
 - __Certifications:__ FCA CF30, IMC Machine Learning (Andrew Ng/Stanford), CUDA Programming, Fitch Learning Credit Analysis.
 _ __Languages:__ English (Fluent), Mandarin (Native), Cantonese (Fluent), Malay (Fluent).
 - __Awards:__ IBM International Full PhD Studentship, Malaysia PSD Full Overseas Scholarship, various best student projects.
