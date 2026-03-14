@@ -49,9 +49,9 @@ Performance-driven Systematic Fixed Income Portfolio Manager with 10+ years of e
 
 ### **EDUCATION**
 
-**Imperial College** *Msc in Statistics (Distinction)
+**Imperial College* | **2015** *Msc in Statistics (Distinction)*
 
-**University of York** *MEng, PhD in Computer Science
+**University of York** | **2002 – 2011**  *MEng, PhD in Computer Science*
 
 ---
 
