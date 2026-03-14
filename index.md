@@ -57,11 +57,22 @@ __Research Co-op, IBM T J Watson Research, NY, USA.__
 
 ---
 
-### **EDUCATION**
+## Education
+`2015`
+__MSc in Statistics, Imperial College.__
+- Thesis: Portfolio Optimisation with Sequential Monte Carlo
+- Awards: Distinction with best student presentation award
+  
+`2007 - 2011`
+__PhD in Computer Science, University of York.__
+- Thesis: Security Policy Inference
+- Expertise: Evolutionary Algorithms, Heuristic Search and Optimisation, Rules Inference
+- Awards: IBM International Full PhD Studentship
+- Teaching Experience: Advanced Programming, Network and Communication
 
-**Imperial College* | *Msc in Statistics (Distinction)* | **2015** 
-
-**University of York** | *MEng, PhD in Computer Science* | **2002 – 2010**  
+`2002 - 2006`
+__MEng (Hons) Computer Science, University of York.__
+- Awards: Malaysia PSD Full Overseas Scholarship, University Bursaries, the best group project
 
 ---
 
